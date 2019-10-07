@@ -2,7 +2,7 @@
 Crea un repositori
 
 ## Activitats
-* [1_llocweb] 
+* [1_llocweb](https://lauragv13.github.io/1llocweb/)
 
 ## Pàgines classe
 * [Pàgina Classe 2GP](http://arquesm.github.io/2GP/)
