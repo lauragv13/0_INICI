@@ -1,6 +1,9 @@
 # 0_INICI
 Crea un repositori
 
+## Activitats
+* [1_llocweb] 
+
 ## Pàgines classe
 * [Pàgina Classe 2GP](http://arquesm.github.io/2GP/)
 * [Lleguatge etiquetes Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
