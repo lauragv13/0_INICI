@@ -3,10 +3,10 @@ Crea un repositori
 
 ## Activitats
 * [1_llocweb](https://lauragv13.github.io/1llocweb/)
-* [2_css]
-* [3_broom]
-* [4_maquetació]
-* [5_moduls]
+* [2_css] (https://lauragv13.github.io/2cmyk/)
+* [3_broom] (https://lauragv13.github.io/3broom/)
+* [4_maquetació] (https://lauragv13.github.io/4maquetacio/)
+* [5_moduls] ( https://lauragv13.github.io/5moduls/)
 * [6_targetes]
 * [7_landingpage]
 
